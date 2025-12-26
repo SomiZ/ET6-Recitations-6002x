@@ -1,5 +1,15 @@
 # ET Cohort 6: Recitations Resources for 6.00.2x
+---
+# 🏛️ MIT Emerging Talent - Instructor Portfolio
 
+This repository contains recitation materials and code references I delivered as an **Instructor** for the **MIT Emerging Talent** program.
+
+* **Role:** Instructor & Recitation Leader
+* **Context:** Delivered to MIT Emerging Talent learners.
+* **Focus Areas:** Computational Thinking, Data Science, and Python.
+
+---
+*(Original Course Material below)*
 This repository contains workshop materials and practice problems to supplement 
 [MITx: Introduction to Computational Thinking and Data Science](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science).
 
